@@ -19,6 +19,12 @@ String names[] = new String[3];
 		}
 		System.out.println("Original Array: " + Arrays.toString(names));
 		System.out.println("Copied Array: " + Arrays.toString(copyName));
+		for(int i=copyName.length-1;i>=0;i--)
+		{
+			
+            System.out.print(copyName[i] + " ");  
+
+		}
 	}
 
 }
