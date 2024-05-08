@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\91809\eclipse-workspace\GrotechMinds\GrotechMinds\MyEntireJavaProgram\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
